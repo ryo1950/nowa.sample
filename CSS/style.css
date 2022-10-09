@@ -1,0 +1,122 @@
+@charset "UTF-8";
+
+a {
+    color: #888888;
+    text-decoration: none;
+}
+
+header {
+    /* 後で消去 */
+    border: #888888 1px solid;
+}
+
+#topicon {
+    height: 50px;
+    width: auto;
+}
+
+nav {
+    margin: 0px;
+}
+
+.main-picture {
+    /* 後で消去 */
+    border: #888888 1px solid;
+}
+
+.row {
+    background-color: #FAEBD7;
+    height: auto;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding: 15px 0 30px 0;
+
+    /* 後で消去 */
+    border: #888888 1px solid;
+}
+
+footer {
+    background-color:#FAEBD7;
+
+    /* 後で消去 */
+    border: #888888 1px solid;
+}
+
+
+img {
+    max-width:100%;
+    height: auto;
+}
+
+
+/* メインコンテンツのデザイン */
+img.rain {
+    max-width: 80%;
+    height: auto;
+}
+
+h4 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+/* サイドコンテンツのデザイン */
+
+#side_banner ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+#side_banner li {
+    margin-bottom: 10px;
+}
+
+li.twitter-follow-button {
+    width: auto;
+}
+
+#recruit {
+    width: 50%;
+    height: auto;
+}
+
+
+/* スケジュールページのデザイン */
+img.schedule_img {
+    max-width: 90%;
+    width: auto;
+    padding-left: 50px;
+}
+
+h4 + p {
+    text-align: left;
+}
+
+/* アクセスページのデザイン */
+
+.access p {
+    text-align: left;
+}
+
+.access h5 {
+    text-align: left;
+}
+
+/* キャストページのデザイン */
+
+#cast {
+    padding: 0;
+    width: 100%;
+    
+}
+
+.casts {
+    border: none;
+}
+
+.castimg {
+    border-radius: 50%;
+    margin-bottom: 5px;
+}
